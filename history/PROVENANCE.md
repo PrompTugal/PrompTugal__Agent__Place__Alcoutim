@@ -1,0 +1,42 @@
+# Provenance: Alcoutim (alcoutim)
+
+Every file below was copied unchanged (inbox tokens blanked) into this folder from a PrompTugal repository, on the original path (website files at `history/<path>`, other repositories at `history/other-repos/<repo>/<path>`). Nothing was deleted at the source. Files marked *shared* are the by-place programme's common documents, copied into every place. `README-rows.md` was written here from the guidance README.
+
+Files copied: 34
+
+| Source repository | Path | Last commit | Date | Note |
+|---|---|---|---|---|
+| PrompTugal__News__Website | `board/abp/place.alcoutim.md` | [ed328db990](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ed328db990a930111998064a051d797bcef15f2b) | 2026-11-24T00:14:09+00:00 |  |
+| PrompTugal__News__Website | `board/briefs/2026-11-15-the-place-agents.md` | [d1475ada03](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d1475ada03831550087a011abdd7b971ae22f20e) | 2026-11-15T21:44:31+00:00 | shared;  |
+| PrompTugal__News__Website | `board/guidance/2026-11-14-promptugal-by-place.md` | [263f2e711d](https://github.com/PrompTugal/PrompTugal__News__Website/commit/263f2e711de07695d1f1b7e6211886e54fc45377) | 2026-11-15T21:08:07+00:00 | shared;  |
+| PrompTugal__News__Website | `board/guidance/2026-11-16-live-local-signals-and-what-is-local.md` | [9d82d992dc](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9d82d992dcfde0edcef4a4f2f78230ed74973187) | 2026-11-16T00:33:06+00:00 | shared;  |
+| PrompTugal__News__Website | `board/guidance/2026-11-16-the-home-page-is-the-places-and-the-districts.md` | [c3401440ce](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c3401440ceed38144cecc5fbf401fd09c41bf7e7) | 2026-11-16T04:20:44+00:00 | shared;  |
+| PrompTugal__News__Website | `board/inboxes/place.alcoutim.json` | [5209d147d0](https://github.com/PrompTugal/PrompTugal__News__Website/commit/5209d147d0d5e550c14f53bda9f878e2a421497a) | 2026-11-15T22:42:25+00:00 |  |
+| PrompTugal__News__Website | `board/inboxes/site.alcoutim.json` | [5209d147d0](https://github.com/PrompTugal/PrompTugal__News__Website/commit/5209d147d0d5e550c14f53bda9f878e2a421497a) | 2026-11-15T22:42:25+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.alcoutim/2026-11-15T21-51-19Z.json` | [672e98a4a3](https://github.com/PrompTugal/PrompTugal__News__Website/commit/672e98a4a3098ed22ce9e2c27f0c231f58378ab0) | 2026-11-15T21:59:20+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.alcoutim/2026-11-15T21-59-20Z.json` | [8a32286c7b](https://github.com/PrompTugal/PrompTugal__News__Website/commit/8a32286c7b5389dcf727f2e5176b2623bacadcbc) | 2026-11-15T23:56:46+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.alcoutim/2026-11-16T00-55-24Z.json` | [fd567459f8](https://github.com/PrompTugal/PrompTugal__News__Website/commit/fd567459f8e533c43256ff72b25c048eae6b963a) | 2026-11-16T00:59:56+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.alcoutim/2026-11-16T01-00-02Z.json` | [b29983869c](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b29983869c451f0e41e1947827a4d92149ecd24b) | 2026-11-16T01:57:36+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.alcoutim/2026-11-16T02-55-24Z.json` | [1278a6b742](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1278a6b742c738d978818c37a149612b91b51912) | 2026-11-16T02:59:48+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.alcoutim/2026-11-16T03-55-32Z.json` | [cd381dee03](https://github.com/PrompTugal/PrompTugal__News__Website/commit/cd381dee0369a42615caa100162fdd0649687757) | 2026-11-16T03:57:04+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.alcoutim/2026-11-16T04-55-49Z.json` | [174b3815db](https://github.com/PrompTugal/PrompTugal__News__Website/commit/174b3815db859af75c66bedf8f35fac1e8bbf99f) | 2026-11-16T04:56:21+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.alcoutim/2026-11-16T05-55-26Z.json` | [1fb3f6350d](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1fb3f6350d34920d808c110593149a383a84dbed) | 2026-11-16T05:58:01+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.alcoutim/2026-11-16T06-56-29Z.json` | [2840b20675](https://github.com/PrompTugal/PrompTugal__News__Website/commit/2840b206755e72c8c74e60973ba86f87bf00ba29) | 2026-11-16T15:28:08+00:00 |  |
+| PrompTugal__News__Website | `board/team/conductor/place-agents.json` | [c3401440ce](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c3401440ceed38144cecc5fbf401fd09c41bf7e7) | 2026-11-16T04:20:44+00:00 | shared;  |
+| PrompTugal__News__Website | `board/team/place.alcoutim/debriefs/2026-11-16-account-move.md` | [2840b20675](https://github.com/PrompTugal/PrompTugal__News__Website/commit/2840b206755e72c8c74e60973ba86f87bf00ba29) | 2026-11-16T15:28:08+00:00 |  |
+| PrompTugal__News__Website | `board/team/place.alcoutim/debriefs/2026-11-16-handover.md` | [1fb3f6350d](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1fb3f6350d34920d808c110593149a383a84dbed) | 2026-11-16T05:58:01+00:00 |  |
+| PrompTugal__News__Website | `board/team/place.alcoutim/status.json` | [2840b20675](https://github.com/PrompTugal/PrompTugal__News__Website/commit/2840b206755e72c8c74e60973ba86f87bf00ba29) | 2026-11-16T15:28:08+00:00 |  |
+| PrompTugal__News__Website | `board/the-account-move.md` | [09d30f431c](https://github.com/PrompTugal/PrompTugal__News__Website/commit/09d30f431cec35e4414920e788a92108dc4a08e4) | 2026-11-06T22:43:20+00:00 | shared;  |
+| PrompTugal__News__Website | `data/by-place/alcoutim.json` | [846406f47a](https://github.com/PrompTugal/PrompTugal__News__Website/commit/846406f47a3874e42279e9568bee59a6ea5351a5) | 2026-11-19T16:40:25+00:00 |  |
+| PrompTugal__News__Website | `data/by-place/alcoutim.json.sig` | [846406f47a](https://github.com/PrompTugal/PrompTugal__News__Website/commit/846406f47a3874e42279e9568bee59a6ea5351a5) | 2026-11-19T16:40:25+00:00 |  |
+| PrompTugal__News__Website | `data/by-place/now/alcoutim.json` | [118389375e](https://github.com/PrompTugal/PrompTugal__News__Website/commit/118389375ec7accb8e9a60a5d60f2ebf2a1af702) | 2026-11-26T01:14:52+00:00 |  |
+| PrompTugal__News__Website | `data/by-place/places.json` | [9d35400d1b](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9d35400d1baf1c414fa70f6a05642e4f4d7db3e0) | 2026-11-16T13:31:42+00:00 | shared;  |
+| PrompTugal__News__Website | `data/places/alcoutim/place.json` | [e2a97608b8](https://github.com/PrompTugal/PrompTugal__News__Website/commit/e2a97608b89f06559d8d0263f87e710d5dfbbc2e) | 2026-11-19T19:37:23+00:00 |  |
+| PrompTugal__News__Website | `desks/checker-vicky/findings/alcoutim-ai-path-runs-through-the-guadiana.md` | [87506ba083](https://github.com/PrompTugal/PrompTugal__News__Website/commit/87506ba083b837398b7ae225176d878db1ae2a72) | 2026-11-18T10:13:08+00:00 |  |
+| PrompTugal__News__Website | `desks/checker-vicky/findings/alcoutim-council-in-a-weeding-robot-project.md` | [d577307500](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d577307500e9d43e57f250c36348d24cf0f4b44d) | 2026-11-16T10:18:35+00:00 |  |
+| PrompTugal__News__Data | `data/by-place/now/alcoutim.json` | [bd410a7376](https://github.com/PrompTugal/PrompTugal__News__Data/commit/bd410a73762d6b0a755da0a946556d6e47d54c8e) | 2026-11-21T07:14:13+00:00 |  |
+| PrompTugal__News__Data | `data/events/by-place/alcoutim.json` | [f30070323c](https://github.com/PrompTugal/PrompTugal__News__Data/commit/f30070323ceacb1e432d8b63d9f8820c8a84fee1) | 2026-11-21T09:25:31+00:00 |  |
+| PrompTugal__News__Data | `data/social/by-place/alcoutim.json` | [f30070323c](https://github.com/PrompTugal/PrompTugal__News__Data/commit/f30070323ceacb1e432d8b63d9f8820c8a84fee1) | 2026-11-21T09:25:31+00:00 |  |
+| PrompTugal__News__Data | `discovery/by-place/alcoutim/2026-11-18.json` | [16239be9f7](https://github.com/PrompTugal/PrompTugal__News__Data/commit/16239be9f71eb31e42c4470079daec27bc6ad991) | 2026-11-18T14:20:34+00:00 |  |
+| PrompTugal__News__Data | `discovery/claims/by-place/alcoutim.json` | [f30070323c](https://github.com/PrompTugal/PrompTugal__News__Data/commit/f30070323ceacb1e432d8b63d9f8820c8a84fee1) | 2026-11-21T09:25:31+00:00 |  |
+| PrompTugal__Agent__Conductor | `history/board/briefs/2026-11-16-home-page-by-place.md` | [486b32de13](https://github.com/PrompTugal/PrompTugal__Agent__Conductor/commit/486b32de1382947f541ff0986d690a8987b39f30) | 2026-11-26T01:44:37+00:00 | shared;  |
