@@ -621,10 +621,73 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:37Z",
+  "read_at": "2026-11-27T18:38:35Z",
   "by": "place.alcoutim@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
-  "main_headline": null,
-  "items": []
+  "main_headline": {
+   "title": "Algarviana Ultra Trail bate recorde com 100 inscritos na travessia de Alcoutim a Sagres",
+   "url": "https://www.barlavento.pt/algarviana-ultra-trail-recorde-inscritos-alcoutim-sagres/",
+   "source": "Barlavento",
+   "date": "2026-11-26",
+   "read_at": "2026-11-27T18:34:54Z",
+   "names_place": true
+  },
+  "items": [
+   {
+    "title": "Algarviana Ultra Trail bate recorde com 100 inscritos na travessia de Alcoutim a Sagres",
+    "url": "https://www.barlavento.pt/algarviana-ultra-trail-recorde-inscritos-alcoutim-sagres/",
+    "published": "2026-11-26T09:00Z",
+    "date": "2026-11-26",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-27T18:34:54Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Alcoutim vai investir quase 5 milhões de euros na rede de abastecimento de água",
+    "url": "https://www.barlavento.pt/alcoutim-investimento-rede-abastecimento-agua/",
+    "published": "2026-11-23T16:07Z",
+    "date": "2026-11-23",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-27T18:34:54Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Rede Regional de Mercados Locais faz três anos e cresce «De Sagres a Alcoutim»",
+    "url": "https://www.barlavento.pt/rede-regional-mercados-locais-sagres-a-alcoutim-tres-anos/",
+    "published": "2026-11-16T14:25Z",
+    "date": "2026-11-16",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-27T18:34:54Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Alcoutim aprova projeto para modernizar o Mercado Municipal",
+    "url": "https://www.barlavento.pt/alcoutim-mercado-municipal-modernizacao/",
+    "published": "2026-11-16T12:01Z",
+    "date": "2026-11-16",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-27T18:34:54Z",
+    "mentions_place": true
+   },
+   {
+    "title": "GNR apreende duas embarcações de alta velocidade e cerca de 1.120 litros de combustível em Alcoutim",
+    "url": "https://www.barlavento.pt/gnr-apreensao-embarcacoes-alta-velocidade-combustivel-alcoutim/",
+    "published": "2026-11-12T14:51Z",
+    "date": "2026-11-12",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-27T18:34:54Z",
+    "mentions_place": true
+   }
+  ]
  }
 }
