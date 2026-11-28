@@ -621,10 +621,128 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-28T07:37Z",
+  "read_at": "2026-11-28T07:37:37Z",
   "by": "place.alcoutim@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
-  "main_headline": null,
-  "items": []
+  "main_headline": {
+   "title": "Alcoutim vai construir quatro habitações sociais com investimento de cerca de 920 mil euros",
+   "url": "https://postal.pt/nacional/alcoutim-vai-construir-quatro-habitacoes-sociais-com-investimento-de-cerca-de-920-mil-euros/",
+   "source": "Postal do Algarve",
+   "date": "2026-11-27",
+   "read_at": "2026-11-28T07:33:52Z",
+   "names_place": true
+  },
+  "items": [
+   {
+    "title": "Alcoutim vai construir quatro habitações sociais com investimento de cerca de 920 mil euros",
+    "url": "https://postal.pt/nacional/alcoutim-vai-construir-quatro-habitacoes-sociais-com-investimento-de-cerca-de-920-mil-euros/",
+    "published": "2026-11-27T12:00Z",
+    "date": "2026-11-27",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-28T07:33:52Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Alcoutim atribui cerca de 37 mil euros para apoiar igrejas e preservar património religioso",
+    "url": "https://postal.pt/algarve/alcoutim-atribui-cerca-de-37-mil-euros-para-apoiar-igrejas-e-preservar-patrimonio-religioso/",
+    "published": "2026-11-26T15:19Z",
+    "date": "2026-11-26",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-28T07:33:52Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Algarviana Ultra Trail bate recorde com 100 inscritos na travessia de Alcoutim a Sagres",
+    "url": "https://www.barlavento.pt/algarviana-ultra-trail-recorde-inscritos-alcoutim-sagres/",
+    "published": "2026-11-26T09:00Z",
+    "date": "2026-11-26",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-28T07:33:46Z",
+    "mentions_place": true
+   },
+   {
+    "title": "ALUT desafia uma centena de atletas a percorrer mais de 300 quilómetros entre Alcoutim e Sagres",
+    "url": "https://postal.pt/algarve/alut-desafia-uma-centena-de-atletas-a-percorrer-mais-de-300-quilometros-entre-alcoutim-e-sagres/",
+    "published": "2026-11-25T18:42Z",
+    "date": "2026-11-25",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-28T07:33:52Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Alcoutim investe quase cinco milhões de euros para modernizar rede de água do concelho",
+    "url": "https://postal.pt/algarve/alcoutim-investe-quase-cinco-milhoes-de-euros-para-modernizar-rede-de-agua-do-concelho/",
+    "published": "2026-11-24T07:15Z",
+    "date": "2026-11-24",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-28T07:33:52Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Alcoutim vai investir quase 5 milhões de euros na rede de abastecimento de água",
+    "url": "https://www.barlavento.pt/alcoutim-investimento-rede-abastecimento-agua/",
+    "published": "2026-11-23T16:07Z",
+    "date": "2026-11-23",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-28T07:33:46Z",
+    "mentions_place": true
+   },
+   {
+    "title": "António Matias: “Os interesses de Alcoutim e dos seus habitantes estão acima das lutas partidárias”",
+    "url": "https://postal.pt/edicaopapel/antonio-matias-os-interesses-de-alcoutim-e-dos-seus-habitantes-estao-acima-das-lutas-partidarias/",
+    "published": "2026-11-21T16:00Z",
+    "date": "2026-11-21",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-28T07:33:52Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Rede Regional de Mercados Locais faz três anos e cresce «De Sagres a Alcoutim»",
+    "url": "https://www.barlavento.pt/rede-regional-mercados-locais-sagres-a-alcoutim-tres-anos/",
+    "published": "2026-11-16T14:25Z",
+    "date": "2026-11-16",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-28T07:33:46Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Alcoutim investe cerca de 265 mil euros na modernização do Mercado Municipal",
+    "url": "https://postal.pt/algarve/alcoutim-investe-cerca-de-265-mil-euros-na-modernizacao-do-mercado-municipal/",
+    "published": "2026-11-16T12:40Z",
+    "date": "2026-11-16",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-28T07:33:52Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Alcoutim aprova projeto para modernizar o Mercado Municipal",
+    "url": "https://www.barlavento.pt/alcoutim-mercado-municipal-modernizacao/",
+    "published": "2026-11-16T12:01Z",
+    "date": "2026-11-16",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Alcoutim&feed=rss2",
+    "read_at": "2026-11-28T07:33:46Z",
+    "mentions_place": true
+   }
+  ]
  }
 }
